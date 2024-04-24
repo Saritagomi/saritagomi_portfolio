@@ -7,8 +7,8 @@ export const Work = [
         description:"React JS-based portfolio featuring styledComponents and  sleek, smooth scrolling animations.",
         tags:["react","node.js","styledComponents"],
         
-        demo:"https://github.com/Saritagomi/",
-        github:"https://github.com/Saritagomi/sarita_portfolio"
+        demo:"https://saritagomi-portfolio.vercel.app/",
+        github:"https://github.com/Saritagomi/saritagomi_portfolio"
     },
     {
         id:2,
